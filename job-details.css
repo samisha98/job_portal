@@ -1,0 +1,35 @@
+
+.btn-primary {
+  background-color: rgb(240, 102, 22) !important;
+  border-color: #f06616 !important;
+}
+
+.flex-row {
+	display: flex;
+	flex-wrap: wrap;
+}
+.flex-row > [class*='col-'] {
+	display: flex;
+	flex-direction: column;
+}
+
+.flex-row .thumbnail,
+.flex-row .caption {
+	flex-direction: column;
+	display: flex;
+	flex: 1 0 auto;
+	height: auto;
+	position: relative;
+}
+.flex-text {
+	flex-grow: 1;
+}
+.flex-row img {
+	min-width: 0;
+	width: 100%;
+}
+
+.container {
+    width: 1020px !important;
+}
+

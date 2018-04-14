@@ -1,0 +1,14 @@
+.heading  {
+    color: rgba(240, 102, 22, 0.822)  !important;
+}
+
+.btn-primary {
+    background-color: rgb(240, 102, 22) !important;
+    border-color: rgb(240, 102, 22) !important;
+}
+
+.btn-block {
+    margin-top: -10%;
+   
+}
+

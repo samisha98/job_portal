@@ -1,0 +1,103 @@
+body  {
+    background-color: #1c1e20 !important;
+   
+    
+}
+
+#wrapper .main {
+   
+    background-color: rgba(0,0,0,.0001) !important;
+}
+
+.sidebar .nav > li > a:focus, .sidebar .nav > li > a.active {
+    border-left-color: rgb(240, 102, 22) !important;
+}
+
+.metric .icon {
+    background-color: rgb(240, 102, 22) !important;
+}
+
+.profile-header .profile-stat .stat-item:after {
+
+    background-color: rgb(240, 102, 22) !important;
+}
+
+.sidebar .nav > li > a.active {
+    background-color: #252c35;
+    border-left-color: rgb(240, 102, 22) !important;
+}
+
+.profile-header .profile-stat .stat-item:after {
+ 
+    background-color: rgb(240, 102, 22) !important;
+}
+
+.profile-header .profile-stat {
+    position: relative;
+    background-color: #333 !important;
+}
+
+#wrapper .sidebar {
+    background-color: #232222 !important;
+}
+
+.container-fluid {
+    margin-top: -9% !important;
+}
+
+.sidebar .nav > li > a.active {
+    background-color: #181717 !important;
+    opacity: 0.6;
+    border-left-color:  rgb(240, 102, 22) !important;
+}
+
+.sidebar .nav .nav {
+    background-color: #3d3737 !important;
+    opacity: 0.8;
+}
+
+.sidebar .nav > li > a:focus, .sidebar .nav > li > a.active {
+    background-color: #181717 !important;
+    border-left-color: rgb(240, 102, 22) !important;
+}
+
+.sidebar .nav > li > a:focus, .sidebar .nav > li > a.active {
+    background-color: #14498d;
+    border-left-color: #00AAFF;
+}
+
+#wrapper .sidebar {
+    width: 200px !important;
+    
+}
+
+#wrapper .main {
+    width: calc(100% - 210px) !important;
+}
+
+.sidebar .nav > li > a:hover i, .sidebar .nav > li > a:focus i, .sidebar .nav > li > a.active i {
+    color: rgb(240, 102, 22) !important;
+}
+
+.card {
+    background: #333;
+    border-radius: 10px;
+    border-color: rgb(240, 102, 22);
+    display: inline-block;
+    height: 100px;
+    margin: 1rem;
+    position: relative;
+    margin-left: 10%;
+    width: 300px;
+  }
+
+  
+
+
+  #wrapper #sidebar-nav, #wrapper .main {
+    padding-top: 50px !important;
+}
+
+.heading {
+    color: rgba(240, 102, 22, 0.822)  !important;
+}

@@ -1,0 +1,77 @@
+#mainbox{
+    position: relative;
+    font-family: calibri;
+    box-sizing: border-box;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 35%;
+    height: 100px;
+  }
+  .card{
+width: 250px;
+border-radius: 5px;
+background:rgba(0, 0, 0, 0.3);
+height: 60px;
+padding-left: 10px;
+margin: 10px;
+}
+
+.card:hover{
+  border-color: rgba(0, 0, 0, 0.3);
+}
+
+.label {
+    color: white;
+    padding: 10px;
+    font-size:13px;
+}
+
+input[type=text] {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #272626;
+}
+
+input[type=text]:focus {
+  border: rgba(0, 0, 0, 0.3);
+}
+
+select.input-sm {
+  width: 200px !important;
+  height: 27px !important;
+}
+
+.form-control {
+  width: 81% !important;
+}
+
+.form-control:focus {
+
+  background-color:rgba(0, 0, 0, 0) !important;
+}
+
+.form-control {
+  
+    color: #b1abab !important;
+  border:0px;
+  box-shadow: 0px 1px 2px 0 rgba(0, 0, 0, 0);
+  border-color:rgba(0, 0, 0, 0);
+  background-color:rgba(0, 0, 0, 0) !important;
+}
+
+body {
+  background-color: #fff !important;
+}
+
+.card1 {
+  width: 70px;
+  border-radius: 5px;
+  background: rgb(211, 96, 30);
+  height: 60px;
+  padding-left: 10px;
+  margin: 10px;
+}
+
+a {
+  color: #f5f5f5 !important;
+}

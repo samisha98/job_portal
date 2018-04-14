@@ -1,0 +1,33 @@
+.row {
+    margin-right: 10px !important;
+    margin-left: 10px !important;
+}
+
+.btn-success {
+    background-color: rgb(240, 102, 22) !important;
+    border-color: rgb(240, 102, 22) !important;
+}
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: #141516 !important;
+    opacity: 1;
+}
+
+.btn-default {
+    
+    background-color: rgba(0,0,0,.5);
+    border-color: rgba(0,0,0,.5);
+}
+
+default:focus {
+    background-color: #141516 !important;
+}
+
+.btn-default:hover, .btn-default:focus {
+    background-color: #141516 !important;
+}
+
+.btn-default.active, .btn-default:active, .open>.dropdown-toggle.btn-default {
+    
+    background-color: #141516 !important;
+    border-color: rgb(240, 102, 22) !important;
+}

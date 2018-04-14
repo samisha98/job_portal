@@ -1,0 +1,34 @@
+.form-control {
+    
+    background-color: #5550 !important;
+}
+.auth-box {
+    background-color: #333333 !important;
+}
+
+.auth-box .right .overlay {
+    background: #333333 !important;
+    opacity: 0.7;
+}
+
+.btn-primary {
+    background-color: rgb(51, 51, 51) !important;
+    border-color: rgb(240, 102, 22) !important;
+}
+
+.btn-block {
+    width: 40% !important;
+}
+
+body {
+    color: #ccc !important;
+}
+
+a {
+    color:  #ccc !important;
+}
+
+a :hover{
+    color: rgb(240, 102, 22) !important;
+}
+

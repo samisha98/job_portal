@@ -1,0 +1,19 @@
+.btn-default {
+    color: #333;
+    background-color: rgb(240, 102, 22) !important;
+    border-color: rgb(240, 102, 22) !important;
+    margin-left: 10%;
+    margin-top: 2.4%;
+}
+
+.thumbnail {
+  
+    background-color: #131111 !important;
+    border: 1px solid #ddd;
+
+}
+
+.btn-primary {
+    background-color: #f06616 !important;
+    border-color: #f06616 !important;
+}
